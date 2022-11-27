@@ -1,9 +1,6 @@
 # Hello o/
 
-I code mainly in python, but know some java and C#
+I'm 17, and I love coding as a side hobby.
+My main interests revolve around everything related airplanes -- aerospace, air traffic control, etc.
+I'm most familiar with Python, but I dabble in Java & JS
 
-Most of what I do relates to discord bots, but I often create random projects that might be useful
-
-
-
-![MrHouck's Github Stats](https://github-readme-stats.vercel.app/api?username=MrHouck&theme=radical)
